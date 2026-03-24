@@ -27,6 +27,12 @@
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.* 
 
 ## Решение
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task1-1.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task1-2.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task1-3.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task1-4.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task1-5.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task1-6.png)
 
 
 ### Задание 2
@@ -37,6 +43,13 @@
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 ## Решение
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task2-1.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task2-2.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task2-3.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task2-4.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task2-5.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task2-6.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task2-7.png)
 
 
 ## Дополнительные задания (со звёздочкой*)
@@ -52,5 +65,18 @@
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 ## Решение
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-1.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-2.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-3.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-3-1.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-4.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-5.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-5-1.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-6.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-6-1.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-7.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-8.png)
+![Host-protection](https://github.com/valdemar-2502/Host-protection-Homework/blob/main/Screenshots/task3-8-1.png)
 
 
